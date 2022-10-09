@@ -228,17 +228,18 @@ footer {
     }
 
     .right-login h1{
-        font-size: 15px;
+        font-size: 30px;
         margin: 0;
-        top: 5px;
+        top: -10%;
     }
 
     .right-login {
         height: 90vh;
+        width: 50vw;
         position: relative;
         bottom: 60px;
         box-sizing: border-box;
-        bottom: 7vh;
+        bottom: 16%;
         
 
     }
@@ -261,8 +262,7 @@ footer {
 
 
     img {
-        position: fixed;
-        top: -2px;
+        display: none;
 }
 .right-login {
     font-size: 20px;
